@@ -21,8 +21,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ---
-
-The OPPO Live2 format byte layout in this project is derived from
-Young-Spark/oppo-live-photo-maker (MIT License), which was in turn reverse
-engineered from Google MotionPhoto / GContainer public specs and OPPO device
-samples. This project is not affiliated with or endorsed by OPPO / Oplus.
